@@ -1,0 +1,16 @@
+name: SkyCore
+main: me.diamond.Main
+version: 1.1.2
+commands:
+  gamemodes:
+    description: A gamemode GUI Plugin
+  gmc:
+    description: Creative mode
+  gms:
+    description: Survival Mode
+  gmsp:
+    description: Spectator Mode
+  gma:
+    description: Adventure Mode
+  medic:
+    description: Medic Command
